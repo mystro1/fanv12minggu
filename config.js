@@ -30,10 +30,10 @@ global.fotonya1 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //gant
 global.fotonya2 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻LUTFI-BOT'
+global.wm = '↻FANDAH||BOT'
 global.watermark = wm
 global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Faan×፝֟͜×'
-global.wm3 = 'ᯤ LUTFI'
+global.wm3 = 'ᯤ FAAN'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg'
@@ -44,7 +44,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = 'LUTFI-BOT✵'
+global.author = 'FANDAH-BOT✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
