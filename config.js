@@ -5,38 +5,38 @@
 // RECODE BY RIEL OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6289515576937'] 
-global.mods = ['6289515576937'] 
-global.prems = ['6289515576937'] 
+global.owner = ['6281211980447'] 
+global.mods = ['6281211980447'] 
+global.prems = ['6281211980447'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Lutfi_Lurr'
-global.numberowner = '6289515576937'
-global.instagram = 'https://instagram.com/Lutfi_Lurr'
+global.nameowner = 'Faan'
+global.numberowner = '6281211980447'
+global.instagram = 'https://instagram.com/ifanadli_'
 global.github = 'https://github.com/GempyTon'
-global.dana = '0895376380503'
-global.pulsa = '0895376380503'
-global.gopay = ''
+global.dana = '081211980447'
+global.pulsa = '081211980447'
+global.gopay = '081211980447'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'LUTFI-BOT'
+global.namebot = 'FANDAH||BOT'
 global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
 global.web = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
 global.price1 = '-'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://i.postimg.cc/4NCGBhPk/lutfi.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://i.postimg.cc/4NCGBhPk/lutfi.jpg' //ini juga ganti 
+global.fotonya1 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '↻LUTFI-BOT'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Lutfi_Lurr×፝֟͜×'
+global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Faan×፝֟͜×'
 global.wm3 = 'ᯤ LUTFI'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://i.postimg.cc/4NCGBhPk/lutfi.jpg'
+global.media = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu Sedang Proses...'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
