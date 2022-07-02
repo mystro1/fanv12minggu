@@ -10,19 +10,19 @@ global.mods = ['6281211980447']
 global.prems = ['6281211980447'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Faan'
-global.numberowner = '6281211980447'
-global.instagram = 'https://instagram.com/ifanadli_'
-global.github = 'https://github.com/GempyTon'
-global.dana = '081211980447'
+global.nameowner = 'Mystro'
+global.numberowner = ''
+global.instagram = 'https://web.facebook.com/theMaestro2021'
+global.github = 'https://web.facebook.com/theMaestro2021'
+global.dana = ''
 global.pulsa = '081211980447'
-global.gopay = '081211980447'
+global.gopay = ''
 
 //=============『 Info Bot 』=================//
 global.namebot = 'FANDAH||BOT'
-global.gc = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
-global.web = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://chat.whatsapp.com/ElBB5NrJS637TYqjJLHuk2'
+global.gc = 'https://chat.whatsapp.com/'
+global.web = 'https://chat.whatsapp.com/' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://chat.whatsapp.com/'
 global.price1 = '-'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -30,9 +30,9 @@ global.fotonya1 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //gant
 global.fotonya2 = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻FANDAH||BOT'
+global.wm = '↻MYSTRO||BOT'
 global.watermark = wm
-global.wm2 = 'ᯤ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 Faan×፝֟͜×'
+global.wm2 = ' Faan×፝֟͜×'
 global.wm3 = 'ᯤ FAAN'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -40,11 +40,11 @@ global.media = 'https://i.postimg.cc/tgw3XyXK/IMG-20220630-193744.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu Sedang Proses...'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
-global.benar = 'Benar ✅\n'
-global.salah = 'Salah ❌\n'
+global.benar = 'B ✅\n'
+global.salah = 'S ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = 'FANDAH-BOT✵'
+global.author = 'MYSTRO-BOT✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
